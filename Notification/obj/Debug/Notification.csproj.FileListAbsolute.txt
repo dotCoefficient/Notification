@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\bin\Debug\Notification.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\bin\Debug\Notification.exe
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\bin\Debug\Notification.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.FormTest.resources
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.exe
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.csprojResolveAssemblyReference.cache

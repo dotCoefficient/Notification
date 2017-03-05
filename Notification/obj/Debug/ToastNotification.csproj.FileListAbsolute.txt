@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\obj\Debug\ToastNotification.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\obj\Debug\ToastNotification.FormTest.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\obj\Debug\ToastNotification.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\obj\Debug\ToastNotification.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\obj\Debug\Notification.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\obj\Debug\Notification.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\bin\Debug\Notification.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\bin\Debug\Notification.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Notification\Notification\bin\Debug\Notification.pdb
